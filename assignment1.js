@@ -6,7 +6,7 @@ const student1 = {
     birthdate: "August 21, 2006",
     birthplace: "San Rafael, San Esteban, Ilocos Sur, 2706",
     address: "San Rafael, San Esteban, Ilocos Sur, 2706",
-    course: "BSCS 1A",
+    course: "Bachelor of Science in Computer Science 1st Year",
     dreamJob: "Software Engineer"
 };
 
@@ -18,7 +18,7 @@ const student2 = {
     birthdate: "January 23, 2006",
     birthplace: "Paoc Norte, Sta. Lucia, Ilocos Sur, 2712",
     address: "Paoc Norte, Sta. Lucia, Ilocos Sur, 2712",
-    course: "BSCS 1A",
+    course: "Bachelor of Science in Computer Science 1st Year",
     dreamJob: "Programmer"
 };
 
@@ -30,7 +30,7 @@ const student3 = {
     birthdate: "May 15, 2006",
     birthplace: "San Juan District Hospital, Ilocos Sur, 2712",
     address: "Nangalisan, Sta. Lucia, Ilocos Sur, 2712",
-    course: "BSCS 1A",
+    course: "Bachelor of Science in Computer Science 1st Year",
     dreamJob: "Software Engineer"
 };
 
